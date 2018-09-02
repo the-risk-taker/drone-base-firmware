@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "Drone_Base", "Drone_Base\Drone_Base.cppproj", "{6FCC8C11-094C-4E8D-821D-90D9DF242911}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FCC8C11-094C-4E8D-821D-90D9DF242911}.Debug|ARM.ActiveCfg = Debug|ARM
+		{6FCC8C11-094C-4E8D-821D-90D9DF242911}.Debug|ARM.Build.0 = Debug|ARM
+		{6FCC8C11-094C-4E8D-821D-90D9DF242911}.Release|ARM.ActiveCfg = Release|ARM
+		{6FCC8C11-094C-4E8D-821D-90D9DF242911}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
